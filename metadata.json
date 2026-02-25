@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SOUQHUP - Souq Hub Road (gded)",
+  "description": "Souq Hub Road (New Version): A premium platform connecting Egyptian wholesalers with importers and factory owners using innovative visual search and video feeds, with a focus on road and logistics solutions and refined content management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
